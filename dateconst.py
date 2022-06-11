@@ -8,7 +8,7 @@ MONTHEND = 0
 # Important value to adjuect every Week       
 YEAR = "22"
 MONTH = "6"
-DATE = "09"
+DATE = "16"
 
 #YEAR = "22"
 #MONTH = "MAR"
