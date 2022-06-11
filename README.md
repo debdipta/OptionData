@@ -18,6 +18,8 @@ To load data from a start date:
  > python HistVixCompare.pyc --startdate 165483270
  Where time input is in epoch. You can find epoch time 
  using python as below:
- >> import datetime
- >> epoch = datetime.datetime(2021, 7, 7, 0, 0, 0).timestamp()
- >> print(epoch)
+ > import datetime
+
+ > epoch = datetime.datetime(2021, 7, 7, 0, 0, 0).timestamp()
+ 
+ > print(epoch)
