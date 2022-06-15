@@ -20,6 +20,7 @@ To load data from a start date:
  using python as below:
  > import datetime
 
- > epoch = datetime.datetime(2021, 7, 7, 0, 0, 0).timestamp()
+ > epoch = datetime.datetime(2022,6, 13, 0, 0, 0).timestamp()
+ > epoch = datetime.datetime(YEAR,M, DA, 0, 0, 0).timestamp()
  
  > print(epoch)
